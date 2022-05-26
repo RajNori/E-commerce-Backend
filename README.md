@@ -82,7 +82,8 @@ List the ready features here:
 ## Screenshots
 
 ## Video
-Please clink on the link below for the walkthrough video...<br />
+Please clink on the link below for the walkthrough video...
+https://youtu.be/1puZviuROMw
 
 
 ## Setup
